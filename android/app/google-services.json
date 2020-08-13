@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "775706328852",
+    "firebase_url": "https://project-sibo.firebaseio.com",
+    "project_id": "project-sibo",
+    "storage_bucket": "project-sibo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775706328852:android:42836b2a72734fc7610c01",
+        "android_client_info": {
+          "package_name": "com.example.sibo_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775706328852-f8f2pc7541882fctir71lhq8hr95kv3q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgNPJ7PoF1qn0ZUgCnGQ5_-jAbjRSclSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775706328852-f8f2pc7541882fctir71lhq8hr95kv3q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
